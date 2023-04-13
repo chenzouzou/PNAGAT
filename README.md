@@ -1,2 +1,2 @@
 # PNAGAT
-PNAGAT is a graph network model for miRNA-disease prediction
+PNAGAT is a graph network model for MDA prediction task
